@@ -1,5 +1,6 @@
 # n
 // Nollen Void
 
-[![pump fake](i/pumpfake.jpeg?raw=true)](https://www.instagram.com/nollenvoid/)
+[![cover](i/cover.png?raw=true)](https://www.instagram.com/nollenvoid/)
+[![pump fake](i/pumpfake.png?raw=true)](https://www.instagram.com/nollenvoid/)
 
